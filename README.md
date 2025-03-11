@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there👋
 
 <!--
 **bmmunga/bmmunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**I'm Boniface**, a software engineer, maker and inquisitive by nature. I work on random projects I find interesting in my free time.
+I'm currently diving deep into Node.js, and exploring AI Software Engineering.
+
+Checkout my [portfolio](https://bmunga.vercel.app/).
+
+[![SkillIcons](https://skillicons.dev/icons?i=ocaml,py,flask,fastapi,js,nodejs,express,nextjs,postgresql,mongodb,redis,bash,docker,gcp)](https://skillicons.dev)<br/>
