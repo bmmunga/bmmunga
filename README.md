@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **I'm Boniface**, a software engineer, maker and inquisitive by nature. I work on random projects that I find interesting in my free time.  
-I'm currently diving deep into Node.js, and exploring AI Software Engineering.
+I'm currently diving deep into AI Engineering on **Datacamp**, and building agents via **HuggingFace** .
 
 Checkout my [portfolio](https://bmunga.vercel.app/).
 
