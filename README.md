@@ -21,4 +21,4 @@ Checkout my [portfolio](https://bmunga.vercel.app/).
 
 ## My tech toolbox 🧰:
 
-[![SkillIcons](https://skillicons.dev/icons?i=ocaml,py,flask,fastapi,js,nodejs,express,nextjs,postgresql,mysql,mongodb,redis,supabase,nginx,gcp)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=ocaml,py,flask,fastapi,sklearn,nodejs,express,postgresql,mysql,mongodb,redis,supabase,nginx,gcp)](https://skillicons.dev)<br/>
